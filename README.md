@@ -47,4 +47,5 @@ A bar chart highlighting that the highest number of fatalities occur in **person
 This analysis provides valuable insights to help stakeholders make informed decisions when expanding into the aviation industry. The findings can guide safety improvements and risk management strategies for both commercial and private aviation operations.
 
 
-
+### Presentation
+Here is the link to my presentation https://github.com/martinak15/Aviation-Project/blob/main/Aviation_Accident_Analysis_Presentation.pdf
