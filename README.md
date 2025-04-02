@@ -48,4 +48,4 @@ This analysis provides valuable insights to help stakeholders make informed deci
 
 
 ### Presentation
-Here is the link to my presentation https://github.com/martinak15/Aviation-Project/blob/main/Aviation_Accident_Analysis_Presentation.pdf
+Here is the link to my presentation https://github.com/martinak15/Aviation-Project/blob/main/Aviation_Accident_Analysis_Presentation.pdf  // https://www.canva.com/design/DAGi9tOt62I/GTcbTCcfAISoo38BaC9bdw/edit
